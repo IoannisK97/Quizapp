@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="false_str">False</string>
+    <string name="true_str">True</string>
+    <string name="question1">An octopus has three hearts</string>
+    <string name="question2">There are five different blood groups</string>
+    <string name="question3">Serena Williams has won more singles Grand Slams than her sister Venus</string>
+    <string name="question4">Australia is wider than the moon</string>
+    <string name="question5">Ariana Grande is younger than 25 years old</string>
+    <string name="question6">Marrakesh is the capital of Morroco</string>
+    <string name="question7">M and M stands for Mars and Moordale</string>
+    <string name="question8">Venus is the hottest place in our solar system</string>
+    <string name="question9">Alexander Flaming discovered penicilin</string>
+    <string name="question10">The great wall of China is longer than the distance between London and Beijing</string>
+    <string name="submitAns">Submit answers</string>
+</resources>
